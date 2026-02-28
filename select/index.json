@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "On Rainy Days (2021)",
+  "base_artist": "Heize",
+  "createdAt": "2026-02-28T16:30:26.954885Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Spent On Rainy Days",
+      "artist": "Bright Eyes",
+      "has_synced": true,
+      "path": "select/01_Spent_On_Rainy_Days_Bright_Eyes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "On Rainy Days (2021)",
+      "artist": "HEIZE",
+      "has_synced": true,
+      "path": "select/02_On_Rainy_Days_(2021)_HEIZE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "On Rainy Days",
+      "artist": "Heize",
+      "has_synced": true,
+      "path": "select/03_On_Rainy_Days_Heize.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "On Rainy Days",
+      "artist": "BEAST",
+      "has_synced": true,
+      "path": "select/04_On_Rainy_Days_BEAST.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "On Rainy Days (Korean version)",
+      "artist": "BEAST",
+      "has_synced": true,
+      "path": "select/05_On_Rainy_Days_(Korean_version)_BEAST.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "비가 오는 날엔 On Rainy Days",
+      "artist": "BEAST",
+      "has_synced": true,
+      "path": "select/06_비가_오는_날엔_On_Rainy_Days_BEAST.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "비가오는날엔(On Rainy Days)",
+      "artist": "BEAST",
+      "has_synced": true,
+      "path": "select/07_비가오는날엔(On_Rainy_Days)_BEAST.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Spent on Rainy Days",
+      "artist": "Bright Eyes & Britt Daniel",
+      "has_synced": true,
+      "path": "select/08_Spent_on_Rainy_Days_Bright_Eyes_&_Britt_Daniel.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Spent on Rainy Days",
+      "artist": "Bright Eyes",
+      "has_synced": true,
+      "path": "select/09_Spent_on_Rainy_Days_Bright_Eyes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "On Rainy Days",
+      "artist": "Beast",
+      "has_synced": true,
+      "path": "select/10_On_Rainy_Days_Beast.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Spent on Rainy Days",
+      "artist": "Bright Eyes",
+      "has_synced": false,
+      "path": "select/11_Spent_on_Rainy_Days_Bright_Eyes.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rainy day (On Rainy Days 2024 Remake Version)",
+      "artist": "Nowadays",
+      "has_synced": true,
+      "path": "select/12_Rainy_day_(On_Rainy_Days_2024_Remake_Version)_Nowadays.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "On Rainy Days (비가 오는 날엔)",
+      "artist": "BEAST",
+      "has_synced": true,
+      "path": "select/13_On_Rainy_Days_(비가_오는_날엔)_BEAST.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "On Rainy Days (2021)",
+      "artist": "HEIZE",
+      "has_synced": false,
+      "path": "select/pl_01_On_Rainy_Days_(2021)_HEIZE.txt"
+    }
+  ]
+}
